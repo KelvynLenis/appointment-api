@@ -4,5 +4,5 @@ Appointment api using Node and tests with Vitest
 # Techs
 
 - Node
-- Vitest
+- <a href="https://vitest.dev/" target="_blank">Vitest</a>
 - Eslint
